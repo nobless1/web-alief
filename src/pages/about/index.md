@@ -1,19 +1,24 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Tentang Kami
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Komitmen Kami
+ALIEF.GO hadir sebagai solusi terpercaya untuk semua kebutuhan perlengkapan komputer Anda. Kami percaya bahwa teknologi yang tepat dapat mendorong produktivitas, kreativitas, dan kemajuan di berbagai bidang kehidupan.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Kualitas Tanpa Kompromi
+Kami hanya menyediakan produk dari brand ternama yang sudah terbukti kualitas dan keandalannya. Semua barang yang kami jual telah melalui proses kurasi ketat agar Anda mendapatkan yang terbaik—baik untuk kebutuhan profesional, edukasi, hingga gaming.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Dukungan dan Layanan
+Tim kami tidak hanya menjual, tapi juga mendampingi. Kami siap memberikan konsultasi sebelum dan sesudah pembelian, agar Anda bisa memilih perangkat yang sesuai kebutuhan dan anggaran. Pelayanan cepat dan ramah adalah prioritas kami.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Sumber Langsung & Transparansi
+Kami menjalin kerja sama langsung dengan distributor resmi dan brand teknologi terpercaya. Ini memungkinkan kami memberikan harga yang kompetitif dan garansi resmi tanpa perantara.
+
+### Investasi untuk Masa Depan
+Kami percaya bahwa teknologi adalah jembatan menuju masa depan. Karena itu, sebagian dari keuntungan kami kami alokasikan untuk edukasi digital, pelatihan teknologi, dan kegiatan sosial yang memberdayakan masyarakat lokal.
+
+---
+
+Di ALIEF.GO, kami bukan sekadar toko—kami adalah partner Anda dalam membangun masa depan yang lebih produktif dan terhubung.

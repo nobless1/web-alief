@@ -1,70 +1,43 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Perlengkapan Komputer Terlengkap & Terpercaya
+image: /img/bacground.ay.jpg
+heading: Perlengkapan Komputer Terlengkap & Terpercaya
+subheading: Dukung produktivitas Anda dengan perangkat berkualitas dari ALIEF.GO
 mainpitch:
-  title: Why Kaldi
+  title: Mengapa ALIEF.GO
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    ALIEF.GO adalah toko perlengkapan komputer yang mengutamakan kualitas dan kenyamanan pelanggan. Kami menyediakan berbagai produk komputer mulai dari komponen, aksesoris, hingga perangkat pendukung lainnya. Semua produk kami dipilih secara teliti agar Anda mendapatkan performa terbaik, baik untuk kebutuhan kerja, sekolah, maupun gaming.
+subdescription: >-
+  ALIEF.GO hadir untuk para pengguna komputer yang menginginkan perlengkapan terbaik dengan harga bersaing. Kami percaya bahwa perangkat yang baik dapat meningkatkan produktivitas dan pengalaman Anda dalam menggunakan teknologi. Baik pemula maupun profesional, semua bisa menemukan kebutuhannya di sini.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Kami menjual berbagai komponen komputer seperti prosesor, motherboard, RAM, SSD, dan kartu grafis dari brand ternama. Semua produk kami bergaransi resmi dan ready stock. Hubungi kami untuk ketersediaan dan konsultasi gratis.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Selain komponen, kami juga menyediakan aksesoris seperti mouse, keyboard, headphone, webcam, dan lainnya. Cocok untuk keperluan kerja, sekolah daring, atau gaming. Koleksi kami diperbarui secara berkala.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Bingung memilih spesifikasi komputer yang sesuai kebutuhan Anda? Tenang saja! Tim kami siap memberikan konsultasi satu per satu untuk membantu Anda membangun atau memilih perangkat yang tepat.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Kami percaya bahwa teknologi bisa menyatukan orang. ALIEF.GO menyediakan ruang komunitas untuk para pelanggan berdiskusi, sharing seputar teknologi, dan bahkan mengikuti workshop gratis seputar dunia IT.
+  heading: Apa yang Kami Tawarkan
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    ALIEF.GO adalah tempat terbaik bagi siapa saja yang ingin merakit, memperbarui, atau hanya ingin tahu lebih banyak tentang perlengkapan komputer. Kami melayani dengan sepenuh hati dan siap membantu Anda dari awal hingga akhir.
 main:
-  heading: Great coffee with no compromises
+  heading: Komputer Tanpa Kompromi Dengan Kualitas Terbaik
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami hanya menjual produk dengan kualitas terbaik. Setiap barang yang kami sediakan telah melalui proses seleksi yang ketat untuk memastikan performa, ketahanan, dan kenyamanan penggunaan. Transparansi dan pelayanan adalah prioritas kami.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Motherboard komputer dengan komponen elektronik
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Keyboard gaming RGB di atas meja kerja
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Prosesor dan pendingin CPU
     image: /img/products-grid1.jpg
 ---

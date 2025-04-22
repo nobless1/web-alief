@@ -1,101 +1,78 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Produk Kami
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Teknologi Andal untuk Segala Kebutuhan
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  ALIEF.GO adalah tempat terbaik untuk menemukan perangkat komputer berkualitas, dari komponen inti hingga aksesori pelengkap. Kami menyediakan produk unggulan yang bisa diandalkan untuk bekerja, belajar, hingga bermain game. Semua produk kami dipilih dengan standar tinggi untuk memastikan performa dan daya tahan.
+
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Kami menjual berbagai komponen komputer seperti prosesor, motherboard, RAM, SSD, dan kartu grafis dari brand terpercaya. Semua produk kami bergaransi resmi dan siap pakai. Cocok untuk upgrade, rakit PC baru, atau kebutuhan profesional.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Temukan koleksi aksesoris kami, mulai dari mouse, keyboard, headset, webcam, hingga monitor. Setiap produk dikurasi dengan cermat agar sesuai untuk kerja harian, belajar daring, ataupun pengalaman gaming maksimal.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Tidak yakin harus pilih perangkat yang mana? Tim support kami siap membantu Anda lewat konsultasi 1-on-1. Kami akan bantu sesuaikan perangkat berdasarkan kebutuhan, budget, dan tujuan Anda.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Kami percaya bahwa teknologi bisa menyatukan dan memperkuat komunitas. ALIEF.GO menyediakan ruang diskusi dan edukasi melalui workshop, event komunitas, dan forum pelanggan untuk saling berbagi dan belajar.
+  heading: Apa yang Kami Tawarkan
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    ALIEF.GO lebih dari sekadar toko komputer. Kami adalah mitra teknologi Anda. Semua produk dan layanan kami didesain untuk memudahkan hidup Anda, meningkatkan produktivitas, dan memberi pengalaman digital terbaik.
+
 main:
-  heading: Great coffee with no compromises
+  heading: Produk Berkualitas, Tanpa Kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami hanya bekerja sama dengan brand-brand terpercaya dan distributor resmi. Setiap produk kami lalui proses seleksi ketat demi menjamin kualitas, kompatibilitas, dan kepuasan Anda. Transparansi, keaslian, dan garansi adalah komitmen kami.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Komponen motherboard berkualitas tinggi
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Keyboard gaming RGB dengan pencahayaan dinamis
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Prosesor dan sistem pendingin yang canggih
     image: /img/products-grid1.jpg
+
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Raka Darmawan
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Saya rakit PC kantor dengan bantuan ALIEF.GO, dan hasilnya luar biasa! Timnya bantu dari awal sampai akhir. Harganya juga bersaing.
+  - author: Cindy Prameswari
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      ALIEF.GO bukan cuma jualan, tapi juga ngajarin. Aku dapat konsultasi gratis sebelum beli laptop untuk kerja remote. Helpful banget!
+
 full_image: /img/products-full-width.jpg
+
 pricing:
-  heading: Monthly subscriptions
+  heading: Paket Rekomendasi
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Ingin solusi yang lebih praktis? Coba paket pilihan kami! Cocok untuk Anda yang ingin langsung pakai tanpa pusing memilih satu per satu. Kami juga melayani paket kustom sesuai kebutuhan kerja, sekolah, atau gaming.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Paket ideal untuk penggunaan harian dan kantor ringan.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Prosesor Intel i3 / Ryzen 3
+        - RAM 8GB, SSD 256GB
+        - Casing, PSU, dan OS pre-installed
+      plan: Starter
+      price: '3.500.000'
+    - description: Cocok untuk pengguna multitasking, editor ringan, dan pelajar.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Prosesor Intel i5 / Ryzen 5
+        - RAM 16GB, SSD 512GB
+        - GPU entry-level & sistem pre-installed
+      plan: Pro
+      price: '6.800.000'
+    - description: Performa tinggi untuk gaming, editing, dan profesional kreatif.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Prosesor i7/Ryzen 7 + GPU RTX
+        - RAM 32GB, SSD 1TB
+        - Paket kustom sesuai kebutuhan
+      plan: Ultimate
+      price: '12.000.000'
 ---

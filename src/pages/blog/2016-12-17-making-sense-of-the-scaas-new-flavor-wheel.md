@@ -1,33 +1,54 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Mengenal ALIEF.GO Solusi Jual Beli Komputer Terpercaya di Indonesia
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: ALIEF.GO adalah platform jual beli komputer terpercaya yang menyediakan berbagai pilihan laptop, PC, dan aksesori dengan harga bersaing serta layanan terbaik.
 tags:
-  - flavor
-  - tasting
+  - komputer
+  - teknologi
+  - jual beli
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+![komputer](/img/flavor_wheel.jpg)
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Di era digital saat ini, kebutuhan akan perangkat komputer yang andal semakin meningkat. Baik untuk bekerja, belajar, bermain game, hingga keperluan bisnis, memiliki komputer yang sesuai sangat penting. **ALIEF.GO** hadir sebagai solusi jual beli komputer terpercaya di Indonesia.
 
-## What the updates mean to you
+## Apa itu ALIEF.GO?
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+**ALIEF.GO** adalah sebuah platform online yang memudahkan kamu untuk membeli atau menjual berbagai jenis komputer dan perangkat teknologi lainnya. Di ALIEF.GO, kamu bisa menemukan:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+* Laptop baru & bekas
+* PC rakitan
+* Komponen seperti RAM, GPU, SSD, dll
+* Aksesori komputer seperti keyboard, mouse, dan monitor
+* Layanan servis dan upgrade
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+## Kenapa Harus ALIEF.GO?
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Berikut beberapa alasan kenapa ALIEF.GO menjadi pilihan tepat untuk kamu:
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+- **Aman & Terpercaya**: Transaksi dilindungi dan diawasi oleh sistem yang ketat.
+- **Pilihan Lengkap**: Ribuan produk dari berbagai penjual dan brand ternama.
+- **Harga Kompetitif**: Dapatkan harga terbaik dan promo menarik setiap minggu.
+- **Layanan Pelanggan**: Tim support siap membantu kamu 24/7 melalui chat atau email.
+- **Komunitas Aktif**: Bergabung dengan forum untuk berdiskusi soal rakitan PC, review hardware, dan tips teknologi.
+
+## Untuk Siapa ALIEF.GO Cocok?
+
+Platform ini cocok untuk semua kalangan:
+
+- **Pelajar/Mahasiswa** yang butuh laptop untuk belajar daring
+- **Pekerja Kantoran** yang butuh perangkat kerja handal
+- **Gamer & Kreator Konten** yang ingin rakit PC impian
+- **Teknisi & Penjual** yang ingin menjual atau mencari komponen
+
+## Mulai Sekarang Juga!
+
+Kunjungi situs **[ALIEF.GO](https://alief.go)** dan mulai temukan perangkat terbaik sesuai kebutuhanmu. Cek promo harian dan daftar sebagai penjual jika kamu ingin membuka toko online sendiri!
+
+---
+
+Dengan **ALIEF.GO**, jual beli komputer jadi mudah, aman, dan menyenangkan.
+
