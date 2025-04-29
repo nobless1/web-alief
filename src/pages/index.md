@@ -12,16 +12,16 @@ subdescription: >-
   ALIEF.GO hadir untuk para pengguna komputer yang menginginkan perlengkapan terbaik dengan harga bersaing. Kami percaya bahwa perangkat yang baik dapat meningkatkan produktivitas dan pengalaman Anda dalam menggunakan teknologi. Baik pemula maupun profesional, semua bisa menemukan kebutuhannya di sini.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/core.png
       text: >
         Kami menjual berbagai komponen komputer seperti prosesor, motherboard, RAM, SSD, dan kartu grafis dari brand ternama. Semua produk kami bergaransi resmi dan ready stock. Hubungi kami untuk ketersediaan dan konsultasi gratis.
-    - image: /img/coffee-gear.png
+    - image: /img/ram.png
       text: >
         Selain komponen, kami juga menyediakan aksesoris seperti mouse, keyboard, headphone, webcam, dan lainnya. Cocok untuk keperluan kerja, sekolah daring, atau gaming. Koleksi kami diperbarui secara berkala.
-    - image: /img/tutorials.png
+    - image: /img/hardisk.png
       text: >
         Bingung memilih spesifikasi komputer yang sesuai kebutuhan Anda? Tenang saja! Tim kami siap memberikan konsultasi satu per satu untuk membantu Anda membangun atau memilih perangkat yang tepat.
-    - image: /img/meeting-space.png
+    - image: /img/kartu.png
       text: >
         Kami percaya bahwa teknologi bisa menyatukan orang. ALIEF.GO menyediakan ruang komunitas untuk para pelanggan berdiskusi, sharing seputar teknologi, dan bahkan mengikuti workshop gratis seputar dunia IT.
   heading: Apa yang Kami Tawarkan

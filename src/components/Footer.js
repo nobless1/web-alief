@@ -15,7 +15,7 @@ const Footer = () => {
           <img
             src={logo}
             alt="Kaldi"
-            style={{ width: "14em", height: "10em" }}
+            style={{ width: "15em", height: "5em" }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -41,7 +41,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                      
                       </Link>
                     </li>
                     <li>
@@ -51,7 +51,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Admin
+                       
                       </a>
                     </li>
                   </ul>
@@ -62,12 +62,12 @@ const Footer = () => {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        
                       </Link>
                     </li>
                   </ul>
