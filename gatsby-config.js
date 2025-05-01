@@ -1,4 +1,7 @@
 module.exports = {
+  flags: {
+    LMDB_STORE: false
+  },
   siteMetadata: {
     title: "Gatsby + Netlify CMS Starter",
     description:
